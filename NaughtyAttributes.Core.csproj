@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{44857074-7D79-7E2A-FD30-6C29DF6AA53A}</ProjectGuid>
+    <ProjectGuid>{7D16DB4C-0196-5BA3-EBB5-3F1FEB920910}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>NaughtyAttributes.Core</AssemblyName>
